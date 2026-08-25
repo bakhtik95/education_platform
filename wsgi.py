@@ -4,8 +4,8 @@ import sys
 import os
 
 # Замените 'your-username' на ваш логин PythonAnywhere
-USERNAME = 'your-username'
-PROJECT_HOME = f'/home/{USERNAME}/education-platform'
+USERNAME = 'bakhtiyorsattaroff'
+PROJECT_HOME = f'/home/{USERNAME}/education_platform'
 
 # Добавляем путь к проекту
 if PROJECT_HOME not in sys.path:
